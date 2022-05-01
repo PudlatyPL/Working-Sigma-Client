@@ -1,6 +1,7 @@
 # Working-Sigma-Client
 
 ### functions
-- [x] Launching 
-- [X] Free client
+- [x] WebSite
+- [ ] Launching 
+- [ ] Free client
 - [ ] Premium client (coming soon)
